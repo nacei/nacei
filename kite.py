@@ -9,3 +9,4 @@ title='plot'
 filename='plot.jpg'
 plt.title(title)
 plt.savefig(filename)
+plt.close()
